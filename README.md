@@ -1,2 +1,2 @@
 # playground
-Just playing around..
+Just playing around
